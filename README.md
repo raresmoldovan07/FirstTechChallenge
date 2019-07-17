@@ -8,7 +8,7 @@ are required to develop strategy and build robots based on innovative, sound eng
 
 This is my team's code from Season 2017-2018: First Relic Recovery.
 
-##Features
-*Robot Hardware Class
-*OpMode for Autonomous Period
-*TeleOpMode for Driver-Controlled Period & End Game
+## Features
+* Robot Hardware Class
+* OpMode for Autonomous Period
+* TeleOpMode for Driver-Controlled Period & End Game
