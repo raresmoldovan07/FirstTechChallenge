@@ -1,5 +1,5 @@
 # FirstTechChallenge
-:computer:The FIRST Tech Challenge (FTC) is designed for students in grades 7–12 to compete head to head, 
+The FIRST Tech Challenge (FTC) is designed for students in grades 7–12 to compete head to head, 
 by designing, building, and programming a robot to compete in an alliance format against other teams.
 The robot kit is programmed using Java, the MIT App Inventor, or other Android programming systems. Teams, with the guidance of coaches, mentors and volunteers, 
 are required to develop strategy and build robots based on innovative, sound engineering principles.
