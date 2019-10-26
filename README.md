@@ -12,3 +12,6 @@ This is my team's code from Season 2017-2018: First Relic Recovery.
 * Robot Hardware Class
 * OpMode for Autonomous Period
 * TeleOpMode for Driver-Controlled Period & End Game
+
+![](RobotPhoto_2.jpg)
+![](RobotPhoto_1.jpg)
